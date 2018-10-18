@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalReport xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="7941b4b1-b1f8-4467-8ce2-74db75f54372">
+  <producedTypes>
+    <objectType typeId="56222da5-d879-4632-adcf-852b65e94a4e" valueTypeId="d50a572c-a631-4f24-9f25-273799338296"/>
+  </producedTypes>
+  <name>ПередНачаломРаботыУТ</name>
+  <synonym>
+    <key>ru</key>
+    <value>Перед началом работы УТ</value>
+  </synonym>
+  <comment></comment>
+  <containedObjects classId="e41aff26-25cf-4bb6-b6c1-3f478a75f374" objectId="50632e3d-0cfc-40c2-83ce-64718f289d22"/>
+  <defaultForm>ExternalReport.ПередНачаломРаботыУТ.Form.ФормаОтчета</defaultForm>
+  <forms uuid="37b55498-bc5b-47a1-a8cc-11b89da1dc0c">
+    <name>ФормаОтчета</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма отчета</value>
+    </synonym>
+    <comment></comment>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalReport>
